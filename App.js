@@ -18,7 +18,7 @@ export default function App() {
                         title: 'MoodPlay',
                         headerTitleAlign: 'center',
                         headerTintColor:"#1f2156",
-                        headerTitleAllowFontScaling:'30px'
+                       // headerTitleAllowFontScaling:'30px'
 
                     }}
                 />
